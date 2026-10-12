@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Projection Settings
+Comment=Switch display projection mode and resolution
+Exec=/home/me/dev/projects/projection-settings/projection.py
+Icon=video-display
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=display;monitor;projector;resolution;screen;
